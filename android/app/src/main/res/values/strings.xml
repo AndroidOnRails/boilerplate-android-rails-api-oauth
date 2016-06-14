@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Boilerplate</string>
+    <string name="boilerplate_account">Your Boilerplate Account</string>
+
+
+    <string name="sign_in_message">sign_in_message</string>
+    <string name="action_sign_in">action_sign_in</string>
+
+
+    <!-- DIALOG BUILDER STRINGS -->
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Boilerplate: Error</string>
+    <string name="title_permissions">Android Permissions</string>
+
+    <!-- ERROR MESSAGES -->
+    <string name="error_message_play_services">Google Play Services are not available on this device.</string>
+    <string name="error_permission_not_accepted_get_accounts">Permission was not accepted to view the accounts.</string>
+    <string name="error_profile_not_found">Profile for %s cannot be found.</string>
+    <string name="error_sign_in">There was a problem signing in. Please try later.</string>
+</resources>
